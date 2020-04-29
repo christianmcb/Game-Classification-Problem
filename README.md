@@ -3,4 +3,4 @@ An attempt to classify league of legend diamond games into win or loss provided 
 
 Notebook results provide the following table relating to accuracy of classification algorithms used.  
 
-<img src='lol-accuracy.png' height='150'>
+<center><img src='lol-accuracy.png' height='150'></center>
