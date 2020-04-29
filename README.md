@@ -1,2 +1,1 @@
-# league-of-legends
-League of Legends Diamond Games Classification
+# League of Legends Diamond Games Classification
